@@ -1,6 +1,6 @@
 # 8BallPool
 ## How to run the app?
-Requirements: Gradle 5.7 or above
+Requirements: Gradle 5.7 or above (https://gradle.org/install/)
 
 1. To run the game write the following command in the console: `gradle run`
 
